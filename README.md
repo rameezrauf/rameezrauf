@@ -2,7 +2,7 @@
 
 ### Work Experience
 * 2022-Present Self-employed @ R Sqaured Ventures (Electronics Wholesale)
-* Feb 2024-Present Undergraduate Researcher * Virginia Image and Video Analysis
+* Feb 2024-Present Undergraduate Researcher @ Virginia Image and Video Analysis @ The University of Virginia School of Engineering and Applied Sciences
 
 ### About my Education
 * Student at the University of Virginia at the School of Data Science
