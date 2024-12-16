@@ -1,8 +1,8 @@
 ## Hello, everyone! 👋
 
 ### Work Experience
-* 2022-Present CEO @ R Sqaured Ventures (Commodities trading)
-* 2024 Undergraduate Researcher * Virginia Image and Video Analysis
+* 2022-Present Self-employed @ R Sqaured Ventures (Electronics Wholesale)
+* Feb 2024-Present Undergraduate Researcher * Virginia Image and Video Analysis
 
 ### About my Education
 * Student at the University of Virginia at the School of Data Science
