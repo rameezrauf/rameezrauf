@@ -6,7 +6,7 @@
 
 ## About my Education
 * Student at the University of Virginia at the School of Data Science
-* Double majoring in Economics
+* Majoring in Data Science & Economics
 
 ## 🔧 Technologies & Tools
 
