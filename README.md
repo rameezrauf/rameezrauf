@@ -40,6 +40,9 @@ Currently working toward impactful careers in **data, consulting, and product st
 ---
 
 ## 📂 Projects
+- **Biotech FDA Outcome NLP Model**  
+  Built an NLP pipeline that extracts text from biotech trial PDFs and predicts FDA approval likelihood using TF-IDF, logistic regression, and model calibration. Demonstrated complete ML engineering despite limited public training data.
+  
 - **Children’s Library ML Recommender**  
   Built a machine learning model to recommend books for a children’s library, increasing return readers by **7%** and reducing acquisition spend by **20%**. Used Python (scikit-learn, pandas) with Tableau for decision insights.  
 
@@ -48,12 +51,6 @@ Currently working toward impactful careers in **data, consulting, and product st
 
 - **Strike Zone Detection**  
   Developed a Keras-based neural network to detect baseball strike zones with **95% accuracy**, improving sports analytics applications.  
-
-- **Football Formation Finder (In Progress)**  
-  Applying deep learning to classify NFL offensive formations from video data to support strategic analysis.  
-
-- **Biotech FDA Outcome NLP Model**  
-  Built an NLP pipeline that extracts text from biotech trial PDFs and predicts FDA approval likelihood using TF-IDF, logistic regression, and model calibration. Demonstrated complete ML engineering despite limited public training data.  
 
 ---
 
@@ -89,7 +86,7 @@ Currently working toward impactful careers in **data, consulting, and product st
 ---
 
 ## 🌍 Interests
-- Sports (Football, Basketball, Golf)  
+- Sports (Football, Basketball, Golf)  Go Commanders!
 - Data-driven problem-solving & consulting  
 - Building products with real-world impact  
 - Traveling & exploring new cultures  
