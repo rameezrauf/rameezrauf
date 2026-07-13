@@ -1,56 +1,66 @@
 # Hello, everyone! 👋
 
 ## 🚀 About Me
-Hi, I'm **Rameez Rauf**, a Data Science & Economics student at the **University of Virginia** passionate about using data and strategy to solve complex problems. I enjoy working at the intersection of analytics, consulting, and technology—whether that’s building machine learning models, designing dashboards, or scaling a business.
+Hi, I'm **Rameez Rauf**, a Data Science & Economics student at the **University of Virginia** passionate about using data and strategy to solve complex problems. I enjoy working at the intersection of analytics, consulting, and technology, whether that's building AI-powered products, designing dashboards, or scaling a business.
 
-Currently working toward impactful careers in **data, consulting, and product strategy**.  
-**Incoming Data Analyst Intern at Capital One — Summer 2026.**
+Currently working toward impactful careers in **consulting, data, and product strategy**.
+**Incoming Data Analyst Intern at Capital One (Card Partnerships) — Summer 2026.**
 
 ---
 
 ## 💼 Work Experience
-- **Founder & CEO | R Squared Ventures (Global Electronics Logistics)**  
-  *Jun 2023 – Present*  
-  Built and scaled a logistics business generating $150K+ in annual revenue through data-driven procurement and financial optimization.  
+- **Founder & Owner | R Squared Logistics (B2B Wholesale & Logistics)**
+  *Jun 2023 – Present*
+  Founded and scaled a $500K+ annual revenue venture serving a national network of electronics distributors. Built an internal demand forecasting tool that lifted margins 14.7% on targeted purchases and drove 300% annual revenue growth.
 
-- **Research Assistant | Virginia Image and Video Analysis (VIVA) Lab, UVA**  
-  *Feb 2024 – Jan 2025*  
-  Developed computer vision models in PyTorch, engineered optical flow solutions, and benchmarked performance across 200+ video samples.  
+- **Data Analyst Intern | Capital One (Incoming)**
+  *Jun 2026 – Aug 2026*
+  Selected for the Card Partnerships Group to shape strategy for co-branded card products serving 35M+ customers.
 
-- **Business Analyst Intern | Virginia Department of Transportation (VDOT)**  
-  *Jun 2025 – Aug 2025*  
-  Built Power BI dashboards to analyze communication performance; presented data-driven insights to leadership, shaping agency-wide content strategy.  
+- **Business Analyst Intern | Virginia Department of Transportation (VDOT)**
+  *Jun 2025 – Aug 2025*
+  Built executive-level Power BI dashboards tracking outreach performance in real time, driving a 21% increase in digital engagement. Presented recommendations to senior leadership that were adopted as agency-wide communications policy.
 
-- **Founder & President | Emmet Ivy Consulting (Student-Run Data Consulting Club)**  
-  *Mar 2025 – Present*  
-  Led a team of 5 consultants delivering data-focused strategy to nonprofit partners; created workflows that cut project onboarding time by 40%.  
+- **Advisor (Board Position) | Emmet Ivy Consulting**
+  *Apr 2026 – Present*
+  Transitioned the presidency to institutionalize long-term operations. Oversee delivery quality and client development; maintained a 100% client renewal rate across all engagements.
 
-- **Professional Development Chair | UVA Undergraduate Data Science Council**  
-  *Apr 2025 – Present*  
-  Organized 10+ employer engagement events reaching 150+ students; built professional bridges between students and industry experts.  
+- **Founder & President | Emmet Ivy Consulting (Student-Run Data Consulting Organization)**
+  *Feb 2025 – Apr 2026*
+  Founded and grew a consulting organization serving 7 nonprofit and small business clients, scoping each engagement around the client's operational problem and shipping analytics and technology tools to solve it.
+
+- **Professional Development Chair | UVA Undergraduate Data Science Council**
+  *Mar 2025 – Apr 2026*
+  Appointed as the program's first Professional Development Chair; built its career programming from scratch, reaching 150+ students and directly contributing to 30+ student internship placements in the first year.
+
+- **Research Assistant | Virginia Image and Video Analysis (VIVA) Lab, UVA**
+  *Feb 2024 – Jan 2025*
+  Developed computer vision models in PyTorch, engineered optical flow solutions, and benchmarked performance across 200+ video samples.
 
 ---
 
 ## 🎓 Education
-- **University of Virginia**  
-  Bachelor’s in Data Science & Economics  
-  *Concentration in Data Engineering*  
-  Expected Graduation: **May 2027**  
+- **University of Virginia | School of Data Science**
+  B.S. Data Science & Economics (Double Major)
+  Expected Graduation: **May 2027**
 
 ---
 
 ## 📂 Projects
-- **Biotech FDA Outcome NLP Model**  
-  Built an NLP pipeline that extracts text from biotech trial PDFs and predicts FDA approval likelihood using TF-IDF, logistic regression, and model calibration. Demonstrated complete ML engineering despite limited public training data.
-  
-- **Children’s Library ML Recommender**  
-  Built a machine learning model to recommend books for a children’s library, increasing return readers by **7%** and reducing acquisition spend by **20%**. Used Python (scikit-learn, pandas) with Tableau for decision insights.  
+- **🤖 AI Market Intelligence Platform** *(flagship — Apr 2026 – Present)*
+  Built and operate an automated market intelligence platform monitoring 40+ data sources across stocks, crypto, commodities, and macro signals. An LLM pipeline generates daily trade ideas from 19 pre-scored signal sources, audits its own output through a self-critique pass, and tracks every recommendation in a paper ledger behind a statistical validation gate requiring 95% confidence before any real capital. Delivers daily briefs through 14 Discord channels and a self-hosted live dashboard.
 
-- **Restaurant Sales Forecasting Model**  
-  Created a predictive model for restaurant sales potential across ZIP codes using demographics, competition density, and historical sales data. Decreased wasted spend by **30%** and improved forecast accuracy by **55%**.  
+- **Children's Library ML Recommender**
+  Shipped a recommendation tool a children's library used to decide which books to purchase, predicting demand from borrowing patterns. Increased repeat reader visits by **7%** and cut procurement costs by **20%**. Built with Python (scikit-learn, pandas) and Tableau.
 
-- **Strike Zone Detection**  
-  Developed a Keras-based neural network to detect baseball strike zones with **95% accuracy**, improving sports analytics applications.  
+- **Restaurant Sales Forecasting Model**
+  Built a forecasting tool a food service distributor used to prioritize sales leads in new ZIP codes, driving a **55%** increase in targeted sales and cutting customer acquisition costs by **30%**.
+
+- **Biotech FDA Outcome NLP Model**
+  Built an NLP pipeline that extracts text from biotech trial PDFs and predicts FDA approval likelihood using TF-IDF, logistic regression, and model calibration.
+
+- **Strike Zone Detection**
+  Developed a Keras-based neural network to detect baseball strike zones with **95% accuracy**.
 
 ---
 
@@ -58,8 +68,13 @@ Currently working toward impactful careers in **data, consulting, and product st
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🤖 AI & LLM
+![Claude](https://img.shields.io/badge/-Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📦 Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -68,8 +83,6 @@ Currently working toward impactful careers in **data, consulting, and product st
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 📊 Data Visualization & Analytics
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -81,16 +94,16 @@ Currently working toward impactful careers in **data, consulting, and product st
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ---
 
 ## 🌍 Interests
-- Sports (Football, Basketball, Golf)  Go Commanders!
-- Data-driven problem-solving & consulting  
-- Building products with real-world impact  
-- Traveling & exploring new cultures  
+- Washington Commanders Football (ask me about them!)
+- Building products with real-world impact
+- Markets & managing private investments
+- Bollywood films (Shah Rukh Khan classics)
+- Traveling & exploring new cultures
 
 ---
 
-✨ *“Pressure is a privilege.”*
+✨ *"Pressure is a privilege."*
